@@ -1,0 +1,13 @@
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.exe
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.deps.json
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.runtimeconfig.json
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.runtimeconfig.dev.json
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.dll
+C:\LN\tinhBMI\bin\Debug\netcoreapp3.1\tinhBMI.pdb
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.csprojAssemblyReference.cache
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.AssemblyInfoInputs.cache
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.AssemblyInfo.cs
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.csproj.CoreCompileInputs.cache
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.dll
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.pdb
+C:\LN\tinhBMI\obj\Debug\netcoreapp3.1\tinhBMI.genruntimeconfig.cache
